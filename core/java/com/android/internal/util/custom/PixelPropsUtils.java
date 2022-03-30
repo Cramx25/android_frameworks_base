@@ -52,20 +52,6 @@ public class PixelPropsUtils {
             "com.breel.wallpapers20"
     };
 
-    private static final String[] packagesToKeep = {
-        "com.google.android.GoogleCamera",
-        "com.google.android.GoogleCamera.Cameight",
-        "com.google.android.GoogleCamera.Go",
-        "com.google.android.GoogleCamera.Urnyx",
-        "com.google.android.GoogleCameraAsp",
-        "com.google.android.GoogleCameraCVM",
-        "com.google.android.GoogleCameraEng",
-        "com.google.android.GoogleCameraEng2",
-        "com.google.android.MTCL83",
-        "com.google.android.UltraCVM",
-        "com.google.android.apps.cameralite"
-    };
-
     private static ArrayList<String> allProps = new ArrayList<>(Arrays.asList("BRAND", "MANUFACTURER", "DEVICE", "PRODUCT", "MODEL", "FINGERPRINT"));
 
     private static volatile boolean sIsGms = false;
