@@ -53,6 +53,7 @@
             androidprv:layout_constraintBottom_toBottomOf="parent"
             androidprv:layout_constraintLeft_toLeftOf="parent"
             androidprv:layout_constraintRight_toRightOf="parent"
+            android:padding="20dp"
             androidprv:layout_constraintDimensionRatio="1.0"
             androidprv:layout_constraintVertical_bias="1.0"
             />
